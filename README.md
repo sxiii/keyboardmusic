@@ -1,6 +1,8 @@
 # Keyboard Music
 Keyboard Music Jukebox, Linux (GCC) compilable
 
+![Img](https://imgur.com/RQTBjOg.png)
+
 ## :: DESCRIPTION ::
 This is C source for small musical pentatonic toy-program for Linux that I wrote.
 This program has C major, G major, Eb major and E minor pentatonic scales.
