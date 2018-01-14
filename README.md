@@ -25,6 +25,7 @@ Just press the keys on the keyboard to play 4 pentatonic scales:
 * Keys 6, Y, H, N are "random-repeat" triggers from the according pentatonic scale (6 = scale 1; Y = scale 2; H = scale 3; N = scale 4).
 * Space key changes the waveform: "sine", "square", "triangle", "sawtooth", "trapetz", "exp", "whitenoise", "pinknoise", "brownnoise" and back to sine.
 * Key 8 reduces note length, key 9 increases note length.
+* Key M is "total random key" (random from 4 random buffers)
 
 
 You should here the sound.
